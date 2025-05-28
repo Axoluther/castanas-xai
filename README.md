@@ -18,8 +18,7 @@ originales
 
 # Datos
 ## [`castanas_ds`](https://github.com/Axoluther/castanas-xai/tree/main/castanas_ds)
-> Las imágenes sin modificación alguna
-se encuentras en esta carpeta cuya estructura es la siguiente:
+> Imágenes sin modificación. Estructura:
 ```
 castanas_ds/
 ├── comible/
