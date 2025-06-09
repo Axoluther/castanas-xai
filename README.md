@@ -1,5 +1,11 @@
 # XAI
-> Próximamente
+> * En el archivo "analisis xai.ipynb" 
+se aplican algunas técnicas de XAI
+> * Actualmente se han aplicado 
+técnicas de Lime y Máxima activación, 
+se espera un analisis de estos y 
+aplicar más técnicas ed XAI
+
 # Modelo
 > * En el archivo `CNN.ipynb` se 
 encuentra el modelo y su 
